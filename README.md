@@ -121,7 +121,7 @@ Got it! Here's the revised section with your exact code included:
 - Create an `index.js` file to configure the SMTP server.  
 - Use callback functions to handle commands like "on connect," "on mail from," and others for managing email sending and receiving.  
 
- You can refer to the [index.js](www.google.com) file.
+ You can refer to the [index.js]([www.google.com](https://github.com/aryanrangapur/SMTP/blob/main/index.js)) file.
 
 ### Configuring DNS Records in Cloudflare  
 1. **Set the A Record**:  
