@@ -3,7 +3,7 @@ const SMTPServer = require("smtp-server").SMTPServer;
 const server = new SMTPServer({
 
     allowInsecureAuth: true,
-    authOptional: true,
+    authOptional: true, //Just to bypass Auth!
 
     onConnect(session,cb){
         console.log('onConnect',session.id)
