@@ -1,5 +1,5 @@
 
-# Build Our Own SMTP Server
+# Build An SMTP Server
 
 ## Introduction to Mail Servers  
 The concept of creating a personal mail server is introduced, focusing on setting up an SMTP server. The topics covered include how emails are sent and received, and how to create custom email addresses using a domain.  
